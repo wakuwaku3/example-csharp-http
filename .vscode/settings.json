@@ -1,0 +1,20 @@
+{
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "EditorConfig.EditorConfig"
+  },
+  "cSpell.words": [],
+  "cSpell.ignorePaths": [
+    ".git/{info,lfs,logs,refs,objects}/**",
+    ".git/{index,*refs,*HEAD}",
+    ".vscode",
+    ".devcontainer/devcontainer.json",
+    ".gitignore"
+  ],
+  "dotnet.defaultSolution": "main.sln"
+}
